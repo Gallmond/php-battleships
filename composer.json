@@ -11,6 +11,9 @@
             "email": "gallmond@gmail.com"
         }
     ],
+    "require": {
+        "php" : "8.2.*"
+    },
     "scripts": {
         "serve" : "php -S localhost:8888"
     }

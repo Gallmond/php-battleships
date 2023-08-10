@@ -1,0 +1,17 @@
+{
+    "name": "gavin/guestline-battleships",
+    "autoload": {
+        "psr-4": {
+            "Gavin\\GuestlineBattleships\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gavin",
+            "email": "gallmond@gmail.com"
+        }
+    ],
+    "scripts": {
+        "serve" : "php -S localhost:8888"
+    }
+}
